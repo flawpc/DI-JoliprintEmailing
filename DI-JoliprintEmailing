@@ -1,0 +1,1 @@
+javascript:location.href='mailto:mypdf@joliprint.com?subject='+document.title+'&body='+escape(location.href)
